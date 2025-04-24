@@ -3,7 +3,12 @@
     div : parent
         div :chind
             heading
+            1
 **/
+
+
+import React from "react";
+import ReactDOM from "react-dom/client";
 
 
 const parent= React.createElement("div",
